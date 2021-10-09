@@ -49,6 +49,19 @@
     - MySQL
     - Redis
 
+My example project
+- Simple Asset Management > [Here](https://terng-preview.netlify.app/) *it may slow since i used a free plan*
+  - Tech Stack
+    - Front end
+      - React, Meterial UI, React-Table, Apollo Client
+    - Back end
+      - Apollo GraphQL, Mongodb Atlas, Mongoose
+    - Deploy
+      - Front end : Netlify
+      - Back end : Heroku
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
