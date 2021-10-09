@@ -53,7 +53,7 @@ My example project
 - Simple Asset Management > [Here](https://terng-preview.netlify.app/) *it may slow since i used a free plan*
   - Tech Stack
     - Front end
-      - React, Meterial UI, React-Table, Apollo Client
+      - React, Meterial UI, React-Table, Apollo Client, React Router
     - Back end
       - Apollo GraphQL, Mongodb Atlas, Mongoose
     - Deploy
