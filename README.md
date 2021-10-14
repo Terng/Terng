@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/His
 - 🏳️ Nationality: Thai
 - 🧑‍🎓 B.Sc - Computer Science
-- ⚡ Fun fact: I spend almost 4-8 hours to learn the new thing every day.
+- ⚡ Fun fact: I spend almost 2-6 hours to learn the new thing every day.
 
 **Languages and Tools:**
 
