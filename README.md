@@ -20,7 +20,6 @@
 - 🧑‍🎓 B.Sc - Computer Science
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terng&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terng&theme=nord_bright)
 <div align="center">
 
 </div>
