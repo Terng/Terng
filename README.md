@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on InternamInternational Management and Services (Thailand) Co., Ltd.
+- 🔭 I’m currently working on some international company
 - 📫 How to reach me: Terng.pongdilok@gmail.com
 - 😄 Pronouns: He/His
 - 🏳️ Nationality: Thai
